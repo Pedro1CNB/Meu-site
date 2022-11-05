@@ -1,0 +1,31 @@
+    body{font-family: 'Chilanka', cursive;background:linear-gradient(rgb(226, 226, 226),rgb(95, 92, 92))}
+
+    header{padding:2px}
+
+    .titulo-principal{padding-left:35px; font-size:50px}
+
+    .principal{padding:5px}
+
+    #copo{width:100%;height:430px}
+
+    .titulo-centralizado{text-align:center}
+
+    p{text-align:center;font-size:27px}
+
+    #vasco{width:18%;height:314px}
+    #athletico{width:20%;height:298px}
+    #corinthians{width:20%;height:298px}
+    #flamengo{width:20%; height:298px}
+    #palmeiras{width:20%;height:298px}
+
+    h2{text-align:center}
+
+    ul{display: inline-block}
+
+    .preco{font-size:27px;font-style:italic}
+
+    .valor {padding:5px}
+
+    .materiais{font-size:37px;padding-left:15px}
+
+    
